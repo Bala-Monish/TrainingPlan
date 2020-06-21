@@ -14,7 +14,7 @@ public class GenerateParenthisis {
 	            myList.add(str);
 	            return;
 	        }
-	        if(open < max)
+	        if(open < max)						
 	            backtrack(myList,str+"(",open+1,close,max);
 	        if(close < open)
 	            backtrack(myList,str+")",open,close+1,max);
