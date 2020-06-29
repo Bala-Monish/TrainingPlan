@@ -1,0 +1,22 @@
+What is inheritance?
+	- Acquiring properties from parent to child
+How java used Inheritance?
+	- By Extending a Class - extends
+	- By Implement an Interface - implements
+
+9/30:
+- JVM 1.8 and 1.7
+- Interfaces
+- Access Specifiers
+- Inheritance through classes and interfaces
+- Object of a super class can be assigned with Object of its sub class
+
+Need to Answer:
+Why we need to assign child object to parent? what is the use?
+
+types of datatypes:
+primitive and wrapper
+int			- Integer
+float
+double
+boolean
